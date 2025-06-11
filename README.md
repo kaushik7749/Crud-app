@@ -1,3 +1,11 @@
+# Preview
+![image](https://github.com/user-attachments/assets/1689c472-b845-4fde-8bce-f6789544371e)
+![image](https://github.com/user-attachments/assets/dbd8f575-ac10-4051-b2ec-d66ce2895ea8)
+![image](https://github.com/user-attachments/assets/fc317abf-69d4-4d2f-9f30-351fecae684f)
+![image](https://github.com/user-attachments/assets/9f30e4b1-57e1-478d-ba7d-00a6e451be02)
+![image](https://github.com/user-attachments/assets/1f3a74b2-dab4-4c77-a8bc-86d93357627c)
+
+
 # CRUD App Setup Guide
 
 A complete full-stack CRUD application with React frontend, Node.js backend, MongoDB database, and JWT authentication.
